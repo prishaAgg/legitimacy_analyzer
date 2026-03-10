@@ -1,0 +1,5 @@
+# OS
+.DS_Store
+
+# Docker volumes / runtime data
+backend/data/
