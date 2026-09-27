@@ -1,4 +1,4 @@
-# Socratix — Business Legitimacy Analyzer
+# Business Legitimacy Analyzer
 
 A full-stack business intelligence tool that aggregates signals from across the web to assess whether a business is legitimate. Enter a business name and optional location, and the app returns a credibility score (0–10), a verdict, and a structured breakdown of evidence across five independent signal categories.
 
